@@ -1,6 +1,6 @@
 ## Pathfinder: Exploring Path Diversity for Assessing Internet Censorship Inconsistency
 
-This project is protected by GPL-2.0 license.
+The 41st Annual Computer Security Applications Conference (ACSAC), 2025.
 
 ### High-level Ideas
 
