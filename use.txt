@@ -1,0 +1,66 @@
+Vantage Point Acquisition and Data Collection
+--------------------------------------------
+Our client-side scripts acquire vantage points from two sources:
+- Residential proxies: Proxyrack
+- VPN nodes: Hide-My-IP
+
+Procedure:
+1. Provisioning (Experiments 1 & 2)
+   - We subscribe to Proxyrack and retrieve the required credentials, including the API key,
+     port number, username, and password.
+
+2. Connecting to Proxies
+   - We use `curl` to call the Proxyrack API and connect to a proxy entry node,
+     the corresponding exit node serves as the vantage point for the experiment.
+
+3. Probing and Logging
+   - The client side scripts generate probing requests sent from each vantage point to our
+     remote control servers.
+   - HTTP responses and metadata are recorded in designated output files for data analysis.
+
+4. VPN Nodes (Case Studies)
+   - VPN nodes from Hide-My-IP are used exclusively for case studies.
+   - We must ensure that Hide-My-IP remains active and stable throughout the experiment.
+   - Each execution triggers application traceroutes from a single VPN node to 12 control servers.
+   - The HTTP request header field contains a sensitive domain, which will trigger censorship
+     if censoring servers are present along the path.
+
+Control Server Setup
+--------------------
+The remote control servers are deployed on major public cloud platforms (AWS, Azure, GCP)
+and distributed across multiple regions.
+
+For Experiment 1:
+- Six control servers are set up on AWS EC2 instances running Ubuntu.
+- Steps for setup:
+  1. Launch an AWS EC2 instance with Ubuntu as the operating system.
+  2. Connect to the instance from the client side.
+  3. Run the following commands:
+       sudo apt-get update
+       sudo apt-get upgrade -y
+       sudo apt-get install apache2
+  4. Edit the Apache2 landing page (using `vi`) to serve the static payloads "http/n".
+  5. Open port 80 to allow the control server to receive HTTP requests globally.
+
+For Experiment 2 & Case Studies:
+- Twelve control servers with the same setup are established on AWS, Azure, and GCP.
+
+To verify that the control server is working correctly, copy its IP address into a web browser.
+If successful, the page will display "http".
+
+Limitations
+-----------
+For Experiments 1 and 2, we rely on residential proxies from Proxyrack, which are randomly
+assigned, and its proxy pool is frequently updated. This makes it difficult to reproduce experiment results,
+even when using the same service. The same limitation applies to VPN nodes from
+Hide-My-IP, as the availability of specific countries or regions may change over time.
+
+Some residential proxies or VPN nodes cannot sustain a full experiment (across multiple control servers) 
+and may switch to another proxy or terminate the session. To mitigate this, we implement a live proxy check 
+to ensure the proxy remains consistent and active throughout the entire experiment. Despite these measures, 
+inadvertent termination may occur in extreme conditions. Additionally, Control servers rely on third-party 
+cloud infrastructure, which introduces further dependencies. Due to these limitations, it is not feasible 
+to execute all components of the experiments within a single public research infrastructure or guarantee perfect reproducibility.
+
+
+
