@@ -1,0 +1,250 @@
+torrentdada.com 3.26.215.12
+ttl = 1	{"timestamp": 1671393431, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "10.238.0.1"}
+ttl = 2	{"timestamp": 1671393438, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.32.2.10"}
+ttl = 3	{"timestamp": 1671393444, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.17"}
+ttl = 4	{"timestamp": 1671393450, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.9"}
+ttl = 5	{"timestamp": 1671393457, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "119.196.0.77"}
+ttl = 6	{"timestamp": 1671393463, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "112.190.32.21"}
+ttl = 7	{"timestamp": 1671393471, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 8	{"timestamp": 1671393479, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 9	{"timestamp": 1671393485, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "112.191.117.101"}
+ttl = 10	{"timestamp": 1671393492, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "112.191.118.177"}
+ttl = 11	{"timestamp": 1671393498, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "211.47.31.78"}
+ttl = 12	{"timestamp": 1671393504, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "150.222.116.153"}
+ttl = 13	{"timestamp": 1671393511, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "54.239.123.133"}
+ttl = 14	{"timestamp": 1671393540, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 15	{"timestamp": 1671393546, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "15.230.212.61"}
+ttl = 16	{"timestamp": 1671393553, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "15.230.210.56"}
+ttl = 17	{"timestamp": 1671393560, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "15.230.210.91"}
+ttl = 18	{"timestamp": 1671393566, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "15.230.210.152"}
+ttl = 19	{"timestamp": 1671393573, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "15.230.211.34"}
+ttl = 20	{"timestamp": 1671393591, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 21	{"timestamp": 1671393602, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 22	{"timestamp": 1671393622, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 23	{"timestamp": 1671393650, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 24	{"timestamp": 1671393661, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 25	{"timestamp": 1671393669, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 26	{"timestamp": 1671393684, "status": "success", "status_code": 200, "text": "http\n", "headers": {"Date": "Sun, 18 Dec 2022 20:01:10 GMT", "Server": "Apache/2.4.52 (Ubuntu)", "Last-Modified": "Tue, 04 Oct 2022 21:05:12 GMT", "ETag": "\"5-5ea3bd0eee232\"", "Accept-Ranges": "bytes", "Content-Length": "5", "Content-Type": "text/html"}, "is_timeout": false, "device": "*"}
+*************************************
+torrentdada.com 35.180.190.69
+ttl = 1	{"timestamp": 1671393701, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "10.238.0.1"}
+ttl = 2	{"timestamp": 1671393707, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.32.2.10"}
+ttl = 3	{"timestamp": 1671393714, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.17"}
+ttl = 4	{"timestamp": 1671393721, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.9"}
+ttl = 5	{"timestamp": 1671393727, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "119.196.0.77"}
+ttl = 6	{"timestamp": 1671393734, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "112.190.32.21"}
+ttl = 7	{"timestamp": 1671393757, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 8	{"timestamp": 1671393764, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "112.174.90.110"}
+ttl = 9	{"timestamp": 1671393766, "status": "success", "status_code": 302, "text": "", "headers": {"Location": "http://warning.or.kr"}, "is_timeout": false, "device": "112.174.91.218"}
+*************************************
+torrentdada.com 54.197.194.180
+ttl = 1	{"timestamp": 1671393782, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "10.238.0.1"}
+ttl = 2	{"timestamp": 1671393788, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.32.2.10"}
+ttl = 3	{"timestamp": 1671393795, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.17"}
+ttl = 4	{"timestamp": 1671393802, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.9"}
+ttl = 5	{"timestamp": 1671393808, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "119.196.0.77"}
+ttl = 6	{"timestamp": 1671393814, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "112.190.32.21"}
+ttl = 7	{"timestamp": 1671393827, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 8	{"timestamp": 1671393833, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "112.174.90.226"}
+ttl = 9	{"timestamp": 1671393835, "status": "success", "status_code": 302, "text": "", "headers": {"Location": "http://warning.or.kr"}, "is_timeout": false, "device": "112.174.91.182"}
+*************************************
+torrentdada.com 18.228.203.42
+ttl = 1	{"timestamp": 1671393852, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "10.238.0.1"}
+ttl = 2	{"timestamp": 1671393858, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.32.2.10"}
+ttl = 3	{"timestamp": 1671393866, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.17"}
+ttl = 4	{"timestamp": 1671393872, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.9"}
+ttl = 5	{"timestamp": 1671393879, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "119.196.0.77"}
+ttl = 6	{"timestamp": 1671393885, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "112.190.32.21"}
+ttl = 7	{"timestamp": 1671393898, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 8	{"timestamp": 1671393904, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "112.174.90.154"}
+ttl = 9	{"timestamp": 1671393907, "status": "success", "status_code": 302, "text": "", "headers": {"Location": "http://warning.or.kr"}, "is_timeout": false, "device": "112.174.86.238"}
+*************************************
+torrentdada.com 34.151.125.165
+ttl = 1	{"timestamp": 1671393923, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "10.238.0.1"}
+ttl = 2	{"timestamp": 1671393932, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.32.2.10"}
+ttl = 3	{"timestamp": 1671393938, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.17"}
+ttl = 4	{"timestamp": 1671393945, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.9"}
+ttl = 5	{"timestamp": 1671393952, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "119.196.0.77"}
+ttl = 6	{"timestamp": 1671393958, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "112.190.32.21"}
+ttl = 7	{"timestamp": 1671393973, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 8	{"timestamp": 1671393981, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 9	{"timestamp": 1671393987, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "128.134.10.246"}
+ttl = 10	{"timestamp": 1671394018, "status": "success", "status_code": 200, "text": "http\n", "headers": {"Date": "Sun, 18 Dec 2022 20:06:28 GMT", "Server": "Apache/2.4.29 (Ubuntu)", "Last-Modified": "Tue, 25 Oct 2022 19:37:04 GMT", "ETag": "\"5-5ebe108613877\"", "Accept-Ranges": "bytes", "Content-Length": "5", "Content-Type": "text/html"}, "is_timeout": false, "device": "*"}
+*************************************
+torrentdada.com 34.163.60.19
+ttl = 1	{"timestamp": 1671394034, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "10.238.0.1"}
+ttl = 2	{"timestamp": 1671394041, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.32.2.10"}
+ttl = 3	{"timestamp": 1671394048, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.17"}
+ttl = 4	{"timestamp": 1671394055, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.9"}
+ttl = 5	{"timestamp": 1671394062, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "119.196.0.77"}
+ttl = 6	{"timestamp": 1671394068, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "112.190.32.21"}
+ttl = 7	{"timestamp": 1671394090, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 8	{"timestamp": 1671394103, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 9	{"timestamp": 1671394111, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "128.134.10.246"}
+ttl = 10	{"timestamp": 1671394128, "status": "success", "status_code": 200, "text": "http\n", "headers": {"Date": "Sun, 18 Dec 2022 20:08:32 GMT", "Server": "Apache/2.4.29 (Ubuntu)", "Last-Modified": "Sun, 30 Oct 2022 15:32:57 GMT", "ETag": "\"5-5ec42348c7752\"", "Accept-Ranges": "bytes", "Content-Length": "5", "Content-Type": "text/html"}, "is_timeout": false, "device": "*"}
+*************************************
+torrentdada.com 35.245.157.97
+ttl = 1	{"timestamp": 1671394144, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "10.238.0.1"}
+ttl = 2	{"timestamp": 1671394151, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.32.2.10"}
+ttl = 3	{"timestamp": 1671394158, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.17"}
+ttl = 4	{"timestamp": 1671394164, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.9"}
+ttl = 5	{"timestamp": 1671394170, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "119.196.0.77"}
+ttl = 6	{"timestamp": 1671394178, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "112.190.32.21"}
+ttl = 7	{"timestamp": 1671394192, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 8	{"timestamp": 1671394201, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 9	{"timestamp": 1671394208, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "128.134.10.246"}
+ttl = 10	{"timestamp": 1671394213, "status": "success", "status_code": 200, "text": "http\n", "headers": {"Date": "Sun, 18 Dec 2022 20:10:11 GMT", "Server": "Apache/2.4.29 (Ubuntu)", "Last-Modified": "Tue, 25 Oct 2022 18:58:41 GMT", "ETag": "\"5-5ebe07f1e1422\"", "Accept-Ranges": "bytes", "Content-Length": "5", "Content-Type": "text/html"}, "is_timeout": false, "device": "*"}
+*************************************
+torrentdada.com 35.247.224.42
+ttl = 1	{"timestamp": 1671394231, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "10.238.0.1"}
+ttl = 2	{"timestamp": 1671394237, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.32.2.10"}
+ttl = 3	{"timestamp": 1671394244, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.17"}
+ttl = 4	{"timestamp": 1671394250, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.9"}
+ttl = 5	{"timestamp": 1671394257, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "119.196.0.77"}
+ttl = 6	{"timestamp": 1671394263, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "112.190.32.21"}
+ttl = 7	{"timestamp": 1671394274, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 8	{"timestamp": 1671394284, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 9	{"timestamp": 1671394290, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "128.134.10.246"}
+ttl = 10	{"timestamp": 1671394324, "status": "success", "status_code": 200, "text": "http\n", "headers": {"Date": "Sun, 18 Dec 2022 20:11:31 GMT", "Server": "Apache/2.4.29 (Ubuntu)", "Last-Modified": "Tue, 25 Oct 2022 20:24:27 GMT", "ETag": "\"5-5ebe1b1d459a9\"", "Accept-Ranges": "bytes", "Content-Length": "5", "Content-Type": "text/html"}, "is_timeout": false, "device": "*"}
+*************************************
+torrentdada.com 20.5.0.129
+ttl = 1	{"timestamp": 1671394340, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "10.238.0.1"}
+ttl = 2	{"timestamp": 1671394348, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.32.2.10"}
+ttl = 3	{"timestamp": 1671394354, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.17"}
+ttl = 4	{"timestamp": 1671394360, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.9"}
+ttl = 5	{"timestamp": 1671394367, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "119.196.0.77"}
+ttl = 6	{"timestamp": 1671394373, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "112.190.32.21"}
+ttl = 7	{"timestamp": 1671394381, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 8	{"timestamp": 1671394394, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 9	{"timestamp": 1671394400, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "121.189.3.138"}
+ttl = 10	{"timestamp": 1671394407, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.239.244"}
+ttl = 11	{"timestamp": 1671394413, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.22.41"}
+ttl = 12	{"timestamp": 1671394419, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.19.241"}
+ttl = 13	{"timestamp": 1671394426, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.17.109"}
+ttl = 14	{"timestamp": 1671394432, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.7.231"}
+ttl = 15	{"timestamp": 1671394439, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.19.112"}
+ttl = 16	{"timestamp": 1671394445, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.17.203"}
+ttl = 17	{"timestamp": 1671394472, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 18	{"timestamp": 1671394478, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.7.123"}
+ttl = 19	{"timestamp": 1671394487, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 20	{"timestamp": 1671394520, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 21	{"timestamp": 1671394595, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 22	{"timestamp": 1671394610, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 23	{"timestamp": 1671394620, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 24	{"timestamp": 1671394630, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 25	{"timestamp": 1671394642, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 26	{"timestamp": 1671394710, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 27	{"timestamp": 1671394742, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 28	{"timestamp": 1671394746, "status": "success", "status_code": 200, "text": "http\n", "headers": {"Date": "Sun, 18 Dec 2022 20:19:03 GMT", "Server": "Apache/2.4.29 (Ubuntu)", "Last-Modified": "Tue, 25 Oct 2022 15:24:33 GMT", "ETag": "\"5-5ebdd81525870\"", "Accept-Ranges": "bytes", "Content-Length": "5", "Content-Type": "text/html"}, "is_timeout": false, "device": "*"}
+*************************************
+torrentdada.com 20.199.11.24
+ttl = 1	{"timestamp": 1671394762, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "10.238.0.1"}
+ttl = 2	{"timestamp": 1671394768, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.32.2.10"}
+ttl = 3	{"timestamp": 1671394775, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.17"}
+ttl = 4	{"timestamp": 1671394781, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.9"}
+ttl = 5	{"timestamp": 1671394788, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "119.196.0.77"}
+ttl = 6	{"timestamp": 1671394794, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "112.190.32.21"}
+ttl = 7	{"timestamp": 1671394828, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 8	{"timestamp": 1671394857, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 9	{"timestamp": 1671394864, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "121.189.3.138"}
+ttl = 10	{"timestamp": 1671394870, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.239.240"}
+ttl = 11	{"timestamp": 1671394877, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.22.21"}
+ttl = 12	{"timestamp": 1671394883, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.30.15"}
+ttl = 13	{"timestamp": 1671394890, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.30.16"}
+ttl = 14	{"timestamp": 1671394896, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.7.13"}
+ttl = 15	{"timestamp": 1671394903, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.17.67"}
+ttl = 16	{"timestamp": 1671394909, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.29.50"}
+ttl = 17	{"timestamp": 1671394916, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.11.226"}
+ttl = 18	{"timestamp": 1671394926, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 19	{"timestamp": 1671394940, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 20	{"timestamp": 1671394971, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 21	{"timestamp": 1671394981, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 22	{"timestamp": 1671394991, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 23	{"timestamp": 1671395027, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 24	{"timestamp": 1671395054, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 25	{"timestamp": 1671395067, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 26	{"timestamp": 1671395088, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 27	{"timestamp": 1671395096, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 28	{"timestamp": 1671395106, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 29	{"timestamp": 1671395117, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 30	{"timestamp": 1671395129, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 31	{"timestamp": 1671395142, "status": "success", "status_code": 200, "text": "http\n", "headers": {"Date": "Sun, 18 Dec 2022 20:25:30 GMT", "Server": "Apache/2.4.29 (Ubuntu)", "Last-Modified": "Sun, 30 Oct 2022 15:14:40 GMT", "ETag": "\"5-5ec41f32750dc\"", "Accept-Ranges": "bytes", "Content-Length": "5", "Content-Type": "text/html"}, "is_timeout": false, "device": "*"}
+*************************************
+torrentdada.com 20.115.40.63
+ttl = 1	{"timestamp": 1671395158, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "10.238.0.1"}
+ttl = 2	{"timestamp": 1671395165, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.32.2.10"}
+ttl = 3	{"timestamp": 1671395172, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.17"}
+ttl = 4	{"timestamp": 1671395178, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.9"}
+ttl = 5	{"timestamp": 1671395184, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "119.196.0.77"}
+ttl = 6	{"timestamp": 1671395191, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "112.190.32.21"}
+ttl = 7	{"timestamp": 1671395204, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 8	{"timestamp": 1671395221, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 9	{"timestamp": 1671395227, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "121.189.3.138"}
+ttl = 10	{"timestamp": 1671395234, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.239.244"}
+ttl = 11	{"timestamp": 1671395240, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.22.41"}
+ttl = 12	{"timestamp": 1671395247, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.19.241"}
+ttl = 13	{"timestamp": 1671395253, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.17.109"}
+ttl = 14	{"timestamp": 1671395259, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.7.231"}
+ttl = 15	{"timestamp": 1671395266, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.17.182"}
+ttl = 16	{"timestamp": 1671395272, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.17.182"}
+ttl = 17	{"timestamp": 1671395279, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.30.191"}
+ttl = 18	{"timestamp": 1671395285, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.30.191"}
+ttl = 19	{"timestamp": 1671395292, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.16.161"}
+ttl = 20	{"timestamp": 1671395298, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.28.254"}
+ttl = 21	{"timestamp": 1671395305, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.28.223"}
+ttl = 22	{"timestamp": 1671395311, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.29.44"}
+ttl = 23	{"timestamp": 1671395318, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.28.120"}
+ttl = 24	{"timestamp": 1671395325, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.16.180"}
+ttl = 25	{"timestamp": 1671395331, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.21.224"}
+ttl = 26	{"timestamp": 1671395352, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 27	{"timestamp": 1671395361, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 28	{"timestamp": 1671395382, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 29	{"timestamp": 1671395395, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 30	{"timestamp": 1671395405, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 31	{"timestamp": 1671395417, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 32	{"timestamp": 1671395440, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 33	{"timestamp": 1671395470, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 34	{"timestamp": 1671395482, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 35	{"timestamp": 1671395509, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 36	{"timestamp": 1671395548, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 37	{"timestamp": 1671395565, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 38	{"timestamp": 1671395568, "status": "success", "status_code": 200, "text": "http\n", "headers": {"Date": "Sun, 18 Dec 2022 20:32:46 GMT", "Server": "Apache/2.4.29 (Ubuntu)", "Last-Modified": "Mon, 24 Oct 2022 20:02:08 GMT", "ETag": "\"5-5ebcd4439458c\"", "Accept-Ranges": "bytes", "Content-Length": "5", "Content-Type": "text/html"}, "is_timeout": false, "device": "*"}
+*************************************
+torrentdada.com 191.234.198.54
+ttl = 1	{"timestamp": 1671395584, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "10.238.0.1"}
+ttl = 2	{"timestamp": 1671395591, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.32.2.10"}
+ttl = 3	{"timestamp": 1671395597, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.17"}
+ttl = 4	{"timestamp": 1671395604, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "172.30.10.9"}
+ttl = 5	{"timestamp": 1671395611, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "119.196.0.77"}
+ttl = 6	{"timestamp": 1671395617, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "112.190.32.21"}
+ttl = 7	{"timestamp": 1671395646, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 8	{"timestamp": 1671395676, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 9	{"timestamp": 1671395682, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "121.189.3.138"}
+ttl = 10	{"timestamp": 1671395689, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.239.244"}
+ttl = 11	{"timestamp": 1671395695, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.22.49"}
+ttl = 12	{"timestamp": 1671395702, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.28.247"}
+ttl = 13	{"timestamp": 1671395709, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.16.241"}
+ttl = 14	{"timestamp": 1671395716, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.19.112"}
+ttl = 15	{"timestamp": 1671395722, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.17.182"}
+ttl = 16	{"timestamp": 1671395729, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.19.85"}
+ttl = 17	{"timestamp": 1671395735, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.16.5"}
+ttl = 18	{"timestamp": 1671395742, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.30.107"}
+ttl = 19	{"timestamp": 1671395749, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.28.254"}
+ttl = 20	{"timestamp": 1671395756, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.28.223"}
+ttl = 21	{"timestamp": 1671395762, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.29.44"}
+ttl = 22	{"timestamp": 1671395769, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.17.216"}
+ttl = 23	{"timestamp": 1671395775, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.19.169"}
+ttl = 24	{"timestamp": 1671395782, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.16.214"}
+ttl = 25	{"timestamp": 1671395789, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "104.44.22.60"}
+ttl = 26	{"timestamp": 1671395831, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 27	{"timestamp": 1671395844, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 28	{"timestamp": 1671395884, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 29	{"timestamp": 1671395904, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 30	{"timestamp": 1671395929, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 31	{"timestamp": 1671395951, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 32	{"timestamp": 1671395970, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 33	{"timestamp": 1671395979, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 34	{"timestamp": 1671395989, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 35	{"timestamp": 1671396004, "status": "fail", "status_code": 0, "text": "", "headers": {}, "is_timeout": true, "device": "*"}
+ttl = 36	{"timestamp": 1671396062, "status": "success", "status_code": 200, "text": "http\n", "headers": {"Date": "Sun, 18 Dec 2022 20:40:05 GMT", "Server": "Apache/2.4.29 (Ubuntu)", "Last-Modified": "Tue, 25 Oct 2022 18:09:52 GMT", "ETag": "\"5-5ebdfd087663a\"", "Accept-Ranges": "bytes", "Content-Length": "5", "Content-Type": "text/html"}, "is_timeout": false, "device": "*"}
+*************************************
